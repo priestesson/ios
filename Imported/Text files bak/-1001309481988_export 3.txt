@@ -1,0 +1,110 @@
+{
+  "bot_id": 609517172,
+  "data": {
+    "admin": {
+      "legacy_admin": false
+    },
+    "antiflood": {
+      "action": "ban",
+      "action_duration": 0,
+      "flood_limit": 0
+    },
+    "blocklists": {
+      "action": "nothing",
+      "action_duration": 0,
+      "default_reason": "",
+      "filters": null,
+      "should_delete": true
+    },
+    "disabled": {
+      "disabled": null,
+      "should_delete": false
+    },
+    "filters": {
+      "filters": null
+    },
+    "greetings": {
+      "goodbye": {
+        "data_id": "",
+        "text": "",
+        "type": 0
+      },
+      "kick_after": 0,
+      "mute_for": 0,
+      "mute_mode": "",
+      "mute_text": "",
+      "should_clean": false,
+      "should_delete_service": false,
+      "should_goodbye": true,
+      "should_kick": false,
+      "should_mute": false,
+      "should_welcome": true,
+      "welcome": {
+        "data_id": "CgACAgQAAxkBDDKY3WCMZvS127Iyxe1ytynD14v3qJkQAAJACQACSgABYVCzZ3nLCTTMOB8E",
+        "text": "Hello 🔉 {first}, How are you?\n        WELCOME🔉We are\n▀▄▀ {chatname}! ▀▄▀\n\n𝘞𝘦 𝘢𝘳𝘦 𝘧𝘰𝘳𝘦𝘮𝘰𝘴𝘵  𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘤𝘢𝘭 𝘧𝘪𝘳𝘮 𝘸𝘩𝘰𝘴𝘦 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘴 𝘪𝘯 𝘤𝘢𝘱𝘪𝘵𝘢𝘭 𝘢𝘯𝘥 𝘤𝘳𝘺𝘱𝘵𝘰 𝘤𝘶𝘳𝘳𝘦𝘯𝘤𝘺 𝘮𝘢𝘳𝘬𝘦𝘵𝘴 𝘩𝘢𝘷𝘦 𝘣𝘳𝘰𝘶𝘨𝘩𝘵 𝘯𝘶𝘮𝘦𝘳𝘰𝘶𝘴 𝘴𝘶𝘤𝘤𝘦𝘴𝘴𝘦𝘴 𝘰𝘷𝘦𝘳 𝘵𝘩𝘦 𝘺𝘦𝘢𝘳𝘴. 𝘞𝘪𝘵𝘩 𝘢 𝘷𝘪𝘣𝘳𝘢𝘯𝘵 𝘵𝘦𝘢𝘮 𝘰𝘧 𝘺𝘰𝘶𝘯𝘨 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭𝘴 𝘸𝘩𝘰𝘴𝘦 𝘴𝘬𝘪𝘭𝘭𝘴 𝘰𝘯 𝘵𝘩𝘦 𝘤𝘢𝘱𝘪𝘵𝘢𝘭 \u0026 𝘤𝘳𝘺𝘱𝘵𝘰𝘤𝘶𝘳𝘳𝘦𝘯𝘤𝘺 𝘮𝘢𝘳𝘬𝘦𝘵𝘴 𝘢𝘳𝘦 𝘶𝘯𝘳𝘪𝘷𝘢𝘭𝘭𝘦𝘥.\n\n𝘈𝘯𝘵𝘱𝘰𝘰𝘭𝘧𝘳𝘹 𝘪𝘴 𝘦𝘯𝘵𝘪𝘳𝘦𝘭𝘺 𝘢𝘶𝘵𝘰𝘮𝘢𝘵𝘦𝘥, 𝘴𝘵𝘳𝘦𝘴𝘴𝘧𝘳𝘦𝘦 𝘢𝘯𝘥 𝘸𝘪𝘵𝘩 𝘵𝘰𝘱 𝘯𝘰𝘵𝘤𝘩 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘴𝘶𝘤𝘩 𝘵𝘩𝘢𝘵 𝘦𝘷𝘦𝘯 𝘵𝘩𝘰𝘴𝘦 𝘸𝘪𝘵𝘩 𝘯𝘰 𝘵𝘳𝘢𝘥𝘪𝘯𝘨 𝘣𝘢𝘤𝘬𝘨𝘳𝘰𝘶𝘯𝘥 𝘤𝘢𝘯 𝘨𝘢𝘪𝘯 𝘢𝘥𝘷𝘢𝘯𝘵𝘢𝘨𝘦 𝘰𝘧 𝘩𝘦𝘳 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴.\n𝘖𝘶𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘮𝘰𝘥𝘦𝘭 𝘱𝘳𝘰𝘤𝘶𝘳𝘦𝘴 𝘵𝘩𝘦 𝘱𝘳𝘦𝘳𝘦𝘲𝘶𝘪𝘴𝘪𝘵𝘦 𝘤𝘰𝘷𝘦𝘳𝘢𝘨𝘦 𝘧𝘰𝘳 𝘺𝘰𝘶𝘳 𝘧𝘪𝘯𝘢𝘯𝘤𝘦𝘴 𝘢𝘯𝘥 𝘨𝘪𝘷𝘦𝘴 𝘢𝘤𝘤𝘦𝘭𝘦𝘳𝘢𝘵𝘦𝘥 𝘦𝘷𝘰𝘭𝘶𝘵𝘪𝘰𝘯 𝘪𝘯 𝘱𝘳𝘰𝘧𝘪𝘵𝘴.\n𝘑𝘰𝘪𝘯 𝘶𝘴 𝘢𝘴 𝘸𝘦 𝘪𝘯𝘵𝘳𝘰𝘥𝘶𝘤𝘦 𝘺𝘰𝘶 𝘵𝘰 𝘢 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘮𝘰𝘥𝘦𝘭 𝘵𝘩𝘢𝘵'𝘭𝘭 𝘦𝘢𝘳𝘯 𝘺𝘰𝘶 𝘳𝘦𝘤𝘶𝘳𝘳𝘪𝘯𝘨 𝘱𝘳𝘰𝘧𝘪𝘵𝘴",
+        "type": 5
+      }
+    },
+    "locks": {
+      "allowlisted_url": null,
+      "lock_warns": false,
+      "locks": {
+        "album": false,
+        "all": false,
+        "audio": false,
+        "bot": false,
+        "button": false,
+        "command": false,
+        "comment": false,
+        "contact": false,
+        "document": false,
+        "email": false,
+        "emojigame": false,
+        "forward": false,
+        "forwardbot": false,
+        "forwardchannel": false,
+        "forwarduser": false,
+        "game": false,
+        "gif": false,
+        "inline": false,
+        "invitelink": false,
+        "location": false,
+        "phone": false,
+        "photo": false,
+        "poll": false,
+        "rtl": false,
+        "sticker": false,
+        "text": false,
+        "url": false,
+        "video": false,
+        "videonote": false,
+        "voice": false
+      }
+    },
+    "notes": {
+      "notes": null,
+      "private_notes": false
+    },
+    "pins": {
+      "antichannelpin": false,
+      "cleanlinked": false
+    },
+    "reports": {
+      "disable_reports": false
+    },
+    "rules": {
+      "content": "",
+      "send_to_chat": false
+    },
+    "translations": {
+      "lang": "en-GB"
+    },
+    "warns": {
+      "action": "ban",
+      "action_duration": 0,
+      "warn_for": 0,
+      "warn_limit": 3
+    }
+  },
+  "version": 1
+}
